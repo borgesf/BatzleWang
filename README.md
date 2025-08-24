@@ -84,5 +84,5 @@ Batzle, M., & Wang, Z. (1992). Seismic properties of pore fluids. Geophysics, 57
 
 ## Maintainer
 
-FIAD (August 2025)
+Filipe Borges
 
